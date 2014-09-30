@@ -1,0 +1,26 @@
+html {
+	background-color: black;
+}
+
+body{
+	background-color: #eeeeee;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:0px;
+	width: 900px;
+}
+
+#mytitle {
+	padding-top:5px;
+	margin-left: 10px;
+	color: #888800;
+	font-family: sans-serif;
+}
+
+.mystuff {
+	margin-left: 10px;
+	font-family: sans-serif;
+	font-weight:bold;
+	font-size:small;
+	color: #111100;
+}
